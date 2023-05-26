@@ -1,7 +1,15 @@
 ---
-title: "mysite"
+title: "Sara Gonzalez"
+image: IMG_3376.jpeg
+about:
+  template: solana
+  image-shape: rectangle
+  links: 
+    - text: Instagram
+      href: https://instagram.com/gnlsara
+    - text: Email
+      href: sara_gonzalez@ucsb.edu
+    
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
