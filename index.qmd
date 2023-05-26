@@ -1,15 +1,34 @@
 ---
 title: "Sara Gonzalez"
 image: IMG_3376.jpeg
+format:
+  html:
+    theme: united
 about:
-  template: solana
+  template: trestles
   image-shape: rectangle
   links: 
+    - text: GitHub
+      href: https://github.com/gnlsara
     - text: Instagram
       href: https://instagram.com/gnlsara
     - text: Email
-      href: sara_gonzalez@ucsb.edu
+      href: mailto::sara_gonzalez@ucsb.edu
     
 ---
  
+## Education
+
+University of California, Santa Barbara (2020-present)
+
+## About Me
+
+Hometown: Los Angeles, California
+
+Likes: food, sleep, and dancing
+
+Dislikes: chocolate, noisy places, being tired
+
+
+
 
