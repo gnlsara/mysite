@@ -9,11 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+  page-footer: 
+    background: light
+    left:
+      "Copyright 2023, Sara Gonzalez"
 format:
   html:
-    theme: cosmo
+    theme: mystyles.scss
     css: styles.css
+    mainfont: Lexend
     toc: true
 
 
