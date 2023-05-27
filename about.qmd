@@ -1,9 +1,13 @@
 ---
 title: "about"
-subtitle: "a little bit about me"
-fontcolor: "blue"
+subtitle: "a little bit about me as a student and beyond"
 ---
 
-I am a 3rd year at the University of California, Santa Barbara and majoring in environmental studies. After UCSB, I aim to go to grad school and get a masters' degree in environmental engineering.
+I am a 3rd year at the University of California, Santa Barbara and majoring in environmental studies. After UCSB, I aim to go to grad school and get a masters' degree in environmental engineering. 
 
-As a woman of color in STEM, I am very thankful for all the opportunities I have been privileged to get, including a good education as well as support from my loved ones. 
+After taking AP Environmental Science in high school, I grew passionate about the environment and climate change. I think it is important for this generation to fix what the older generations have done to this planet in regards to greenhouse gas emissions, pollution, and environmental injustice. However, in this age of digitization and social media, I think it is also important that we hold ourselves accountable now that we can buy $300 worth of fast fashion at our fingertips. 
+
+In terms of grad school, I have always been drawn to engineering in some way ever since my grade school counselors told me I should go into it because of "my math scores." I think it's appropriate to combine what I've been drawn to as a kid and my passion for my master's degree. 
+
+
+As a person, I'm a 20 year old LA native who's just trying to navigate through life. Born to a Japanese father and a Mexican mother, I would say that there have been many bumps along the road not just being a person of color, but also as a woman. As a woman of color in STEM, I am very thankful for all the opportunities I have been privileged to get, including a good education as well as support from my loved ones. 
