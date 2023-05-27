@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - likes.qmd
+      - travel.qmd
   page-footer: 
     background: light
     left:
